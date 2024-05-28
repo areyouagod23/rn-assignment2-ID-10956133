@@ -5,8 +5,9 @@ This repository contains the solution for Assignment 2 of the DCIT202 Mobile App
 ## Task Description
 
 The task was to create a new React Native blank template project using Expo CLI and make the following modifications in the App.js file:
+
 - Change the background color of the View component.
-- Edit the Text component to display "My name is YourName".
+- Edit the Text component to display "Michael Kumi Larbi".
 - Increase the font size of the text to 24.
 - Make the name "YourName" bold.
 
@@ -25,4 +26,4 @@ The task was to create a new React Native blank template project using Expo CLI 
 
 ## Student ID
 
-YourStudentID
+10956133
